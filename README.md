@@ -31,5 +31,5 @@ docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll build
 docker run -it --rm -p 4000:4000 -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll serve --force_polling
 }
 ```
-![image](https://github.com/cristian1203/Actividad-1.2/assets/151034282/360e1a06-1add-48ee-8c9a-9bbebbc1130b)
+
 
