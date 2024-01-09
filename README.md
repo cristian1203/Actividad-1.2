@@ -27,9 +27,8 @@ docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll bash -c "bundle install"
 ![image](https://github.com/cristian1203/Actividad-1.2/assets/151034282/6fadccf1-604f-4f05-9320-71fdc1acc2de)
 
 ## Paso 5 Este comando nos permite servir de forma local un sitio HTML estático generado a partir del contenido del proyecto Jekyll.  
-{
+ ```
 docker run -it --rm -p 4000:4000 -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll serve --force_polling
-}
 ```
 
 
