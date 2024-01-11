@@ -24,6 +24,14 @@ docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll bash -c "bundle install"
  ```
 docker run -it --rm -p 4000:4000 -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll serve --force_polling
 ```
+![image](https://github.com/cristian1203/Actividad-1.2/assets/151034282/582976aa-55a9-4ee3-83ae-31d0e5851ef6)
+
+## Paso 6 Una vez arrancado ya el servidor jekyll solo tendremos que buscar nuestra web jekyll con la siguiente ip.  
+![image](https://github.com/cristian1203/Actividad-1.2/assets/151034282/a9068f14-f81e-4d0a-a456-7e8879863662)  
+![image](https://github.com/cristian1203/Actividad-1.2/assets/151034282/fcefc03d-e6f1-424b-8a79-d4033ddf2961)
+
+
+
 
 
 
